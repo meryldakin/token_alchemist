@@ -7,3 +7,5 @@ To use:
 4. Call `TokenAlchemist.transmute()` to generate an oauth token.
 5. Use the result in the `Authorization` header as `Bearer <generated token>`
 👩‍🔬 🔑 🚪 
+
+![Token Alchemist Preview](token-alchemist.png?raw=true "Token Alchemist Preview")
